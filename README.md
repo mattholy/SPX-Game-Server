@@ -10,7 +10,7 @@
 
 配置见下图：
 
-![配置截图](https://github.com/mattholy/SPX-Game-Server/blob/master/Snipaste_2019-02-02_12-48-34.png)
+![配置截图](https://raw.githubusercontent.com/mattholy/SPX-Game-Server/master/Snipaste_2019-02-02_12-48-34.png)
 
 ## 捐赠地址
 
