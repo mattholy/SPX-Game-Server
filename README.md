@@ -10,10 +10,10 @@
 
 配置见下图：
 
-![](https://github.com/mattholy/SPX-Game-Server/blob/master/Snipaste_2019-02-02_12-48-34.png)
+![配置截图](https://github.com/mattholy/SPX-Game-Server/blob/master/Snipaste_2019-02-02_12-48-34.png)
 
 ## 捐赠地址
 
 为保持服务器的运转（腐竹要吃土了），特地向大家发起捐赠请求。谢谢大家。
 
-![](https://github.com/mattholy/SPX-Game-Server/blob/master/mm_reward_qrcode_1549083731614.png)
+![捐款码](https://github.com/mattholy/SPX-Game-Server/blob/master/Snipaste_2019-02-02_13-24-11.jpg)
