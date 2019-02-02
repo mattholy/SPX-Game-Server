@@ -16,4 +16,4 @@
 
 为保持服务器的运转（腐竹要吃土了），特地向大家发起捐赠请求。谢谢大家。
 
-![捐款码](https://github.com/mattholy/SPX-Game-Server/blob/master/Snipaste_2019-02-02_13-24-11%20(1).jpg)
+![捐款码](https://github.com/mattholy/SPX-Game-Server/blob/master/Snipaste_2019-02-02_13-33-20.jpg)
